@@ -1,5 +1,5 @@
 # C-BasicCode
-Repository ini untuk sekedar sharing beberapa coding dasar pada bahasa C++.
+Repository untuk portofolio hasil belajar dasar-dasar bahasa pemrograman C++.
 
 Untuk IDE saya pakai Visual Studio.
 
