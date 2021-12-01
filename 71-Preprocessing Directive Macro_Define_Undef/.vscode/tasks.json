@@ -1,0 +1,56 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compile file C++",
+            "type": "shell",
+            "command" : "g++",
+            "args": [
+                "-std=c++17",
+                "${file}",
+                "-c",
+                "-o",
+                ".\\bin\\objects\\${fileBasenameNoExtension}.o"
+            ]
+        },
+        {
+            "label": "build",
+            "type": "shell",
+            "command" : "g++",
+            "args": [
+                "-std=c++17",
+                ".\\bin\\objects\\**.o",
+                "-o",
+                ".\\bin\\App.exe"
+            ]
+        },
+        {
+            "label": "Run",
+            "type": "shell",
+            "command" : ".\\bin\\App.exe",
+        },
+        {
+            "label": "All Build C++",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-std=c++17",
+                ".\\src\\*.cpp",
+                "-o",
+                ".\\bin\\App.exe"
+            ]
+        },
+        {
+            "label": "run + all build",
+            "type": "shell",
+            "command": ".\\bin\\App.exe",
+            "dependsOn":["All Build C++"],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
