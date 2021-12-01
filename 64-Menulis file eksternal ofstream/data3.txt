@@ -1,0 +1,2 @@
+Menulis dalam file data3.txtMenulis baris baru di dalam file data3.txt
+Menulis baris kedua di dalam file data3.txt
