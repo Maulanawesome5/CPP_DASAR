@@ -1,0 +1,3 @@
+Saya mencoba install SSH untuk melakukan remote dengan repository github
+- Clone repository 'CPP_BasicCode' berhasil
+- Push repository 'CPP_DASAR' berhasil
