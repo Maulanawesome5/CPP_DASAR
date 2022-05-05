@@ -32,7 +32,6 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="crud.cpp" />
 		<Unit filename="crud.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
