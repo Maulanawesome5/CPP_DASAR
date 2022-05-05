@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1651774050 source:d:\latihan pemrograman\cpp_dasar\76-latihan multi file\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<limits>
+	"crud.h"
+
+1651774384 d:\latihan pemrograman\cpp_dasar\76-latihan multi file\crud.h
+	<iostream>
+	<fstream>
+	<string>
+	<limits>
+
