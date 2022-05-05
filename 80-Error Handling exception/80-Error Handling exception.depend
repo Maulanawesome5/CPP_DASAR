@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651785161 source:d:\latihan pemrograman\cpp_dasar\80-error handling exception\main.cpp
+	<iostream>
+	<array>
+
+1651784894 source:d:\latihan pemrograman\cpp_dasar\80-error handling exception\runtime_error.cpp
+	<iostream>
+
