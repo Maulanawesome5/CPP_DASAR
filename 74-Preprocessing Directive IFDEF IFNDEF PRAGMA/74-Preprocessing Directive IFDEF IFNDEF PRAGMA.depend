@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1651765922 source:d:\latihan pemrograman\cpp_dasar\74-preprocessing directive ifdef ifndef pragma\main.cpp
+	<iostream>
+	"bersama.h"
+	"foo.h"
+	"bar.h"
+
+1651765739 d:\latihan pemrograman\cpp_dasar\74-preprocessing directive ifdef ifndef pragma\foo.h
+	"bersama.h"
+
+1651765745 d:\latihan pemrograman\cpp_dasar\74-preprocessing directive ifdef ifndef pragma\bar.h
+	"bersama.h"
+
+1651765981 d:\latihan pemrograman\cpp_dasar\74-preprocessing directive ifdef ifndef pragma\bersama.h
+
