@@ -1,0 +1,19 @@
+{
+    "editor.fontSize": 16,
+    "editor.minimap.enabled": false,
+    "terminal.integrated.fontSize": 15,
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "files.associations": {
+        "cmath": "cpp",
+        "cstdlib": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "limits": "cpp",
+        "vector": "cpp",
+        "sstream": "cpp",
+        "numeric": "cpp",
+        "ctime": "cpp",
+        "algorithm": "cpp"
+    },
+}
