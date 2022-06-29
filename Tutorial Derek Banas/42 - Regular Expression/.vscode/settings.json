@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 16,
+    "editor.minimap.enabled": false,
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "vscode-icons",
+}
